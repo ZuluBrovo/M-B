@@ -1,0 +1,17 @@
+{
+  "name": "M&B NAV — Mass, Balance & Nav Log Planner",
+  "short_name": "M&B NAV",
+  "description": "Mass & balance, nav log, max fuel and briefing links for the Tecnam P2006T and Cessna 152.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
